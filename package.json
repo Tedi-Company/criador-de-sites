@@ -1,0 +1,14 @@
+{
+  "name": "gerador-sites",
+  "version": "1.0.0",
+  "description": "Gerador de sites dinâmico",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "nodemailer": "^6.9.4"
+  }
+}
